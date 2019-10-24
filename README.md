@@ -1,1 +1,3 @@
 # gmalltest
+
+#make
